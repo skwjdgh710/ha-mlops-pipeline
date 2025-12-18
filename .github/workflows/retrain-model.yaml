@@ -1,6 +1,6 @@
 # .github/workflows/retrain-model.yaml
 # 자동 재학습 Pipeline: Drift 감지 시 모델 재학습
-#
+##
 # 트리거: 
 #   - workflow_dispatch (수동 또는 외부 API 호출)
 #   - Prometheus Alert → Webhook → GitHub API
