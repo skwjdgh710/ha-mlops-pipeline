@@ -1,6 +1,6 @@
 # .github/workflows/ci-test.yaml
 # CI Pipeline: 코드 테스트 및 품질 검사
-#
+# test
 # 트리거: main/develop 브랜치 푸시 또는 PR
 
 name: CI - Test & Build
